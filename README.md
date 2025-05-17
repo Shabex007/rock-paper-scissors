@@ -1,7 +1,5 @@
 # Rock Paper Scissors Game ✊✋✌️
 
-![Java](https://img.shields.io/badge/Java-17-blue) ![Game](https://img.shields.io/badge/Type-Game-success) ![License](https://img.shields.io/badge/License-MIT-green)
-
 A classic Rock Paper Scissors game implemented in Java with ASCII art visuals and interactive gameplay.
 
 ## Repository Information
