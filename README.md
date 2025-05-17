@@ -2,11 +2,6 @@
 
 A classic Rock Paper Scissors game implemented in Java with ASCII art visuals and interactive gameplay.
 
-## Repository Information
-
-- **Name**: java-rock-paper-scissors
-- **Description**: "A console-based Rock Paper Scissors game with ASCII art visuals and best-of-three gameplay"
-
 ## Features
 
 - 🎮 Classic Rock Paper Scissors gameplay
