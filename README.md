@@ -67,3 +67,62 @@ A classic Rock Paper Scissors game implemented in Java with ASCII art visuals an
                    __________)
                   (____)
             ---.__(___)
+
+## Example Output
+
+```bash
+--- Rock Paper Scissors Game ---
+Enter your choice:
+0 - Rock
+1 - Paper
+2 - Scissors
+Your choice: 1
+
+You chose: Paper
+                     _______
+                ---'    ____)____
+                           ______)
+                          _______)
+                         _______)
+                ---.__________)
+
+Computer chose: Rock
+                    _______
+                ---'   ____)
+                      (_____)
+                      (_____)
+                      (____)
+                ---.__(___)
+
+Result: You Win!
+
+Do you want to play again? (yes/no): yes
+
+--- Rock Paper Scissors Game ---
+Enter your choice:
+0 - Rock
+1 - Paper
+2 - Scissors
+Your choice: 0
+
+You chose: Rock
+                    _______
+                ---'   ____)
+                      (_____)
+                      (_____)
+                      (____)
+                ---.__(___)
+
+Computer chose: Paper
+                     _______
+                ---'    ____)____
+                           ______)
+                          _______)
+                         _______)
+                ---.__________)
+
+Result: You Lose!
+
+Do you want to play again? (yes/no): no
+Thanks for playing!
+```
